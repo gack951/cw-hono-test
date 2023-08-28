@@ -1,1 +1,8 @@
-# cw-hono-test
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
