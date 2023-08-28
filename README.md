@@ -1,8 +1,8 @@
-```
-npm install
-npm run dev
-```
+# hono-react
+
+🔥Hono on cloudflare-workers
 
 ```
-npm run deploy
+pnpm i
+pnpm run deploy
 ```
